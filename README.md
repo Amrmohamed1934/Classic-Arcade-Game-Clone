@@ -16,4 +16,4 @@
 * medium level number of enemy equal 4 or 5
 * hard level number of enemy is more than 6
 ## Getting-start-play-game
-Open the **index.html** file in any modern browser, click inside the game area, and enjoy playing the game.
+Open the **index.html** file in any modern browser, click inside the game area and enjoy playing the game.
