@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [describtion](#describtion)
-- [Getting-start-play-game](#Getting-start-play-game)
 - [Game-levels](#Game-levels)
+- [Getting-start-play-game](#Getting-start-play-game)
 ## describtion 
  This game consists of a player character and enemy bugs. 
  The **goal** of the game is to reach the water, without colliding into any of the enemies and **The player** can move left, right, up and down with the keyboard arrow keys. 
